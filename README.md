@@ -27,11 +27,12 @@ Ordered
    1. Item 3a
    1. Item 3b
 Images
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/live.png)
 Format: ![Alt Text](url)
 Links
 http://github.com - automatic!
-[GitHub](http://github.com)
+[GitHub link](http://github.com)
+
 Blockquotes
 As Kanye West said:
 
